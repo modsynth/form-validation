@@ -1,0 +1,12 @@
+{
+  "name": "@modsynth/form-validation",
+  "version": "0.1.0",
+  "description": "React Hook Form validation module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {"build": "tsc"},
+  "keywords": ["react", "form", "validation"],
+  "author": "Modsynth Team",
+  "license": "MIT",
+  "peerDependencies": {"react": "^18.0.0", "react-hook-form": "^7.0.0", "zod": "^3.0.0"}
+}

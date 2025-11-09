@@ -1,0 +1,1 @@
+{"name": "form-validation", "version": "0.1.0", "description": "React Hook Form validation module", "type": "library", "language": "typescript", "category": "frontend", "maintainers": [{"name": "Modsynth Team"}], "techStack": ["React", "React Hook Form", "Zod"]}
